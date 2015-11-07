@@ -1,4 +1,4 @@
-# Michael Wawra, Technical Test
+# Reverse Geocoder 
 
 This application allows you to use Reverse Geocoding on Google and OpenStreetMap.
 
