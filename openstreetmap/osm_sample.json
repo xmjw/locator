@@ -1,0 +1,21 @@
+{
+  "place_id": "73626440",
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+  "osm_type": "way",
+  "osm_id": "90394420",
+  "lat": "52.54877605",
+  "lon": "-1.81627023283164",
+  "display_name": "137, Pilkington Avenue, Castle Vale, Maney, Birmingham, West Midlands, England, B72 1LH, United Kingdom",
+  "address": {
+    "house_number": "137",
+    "road": "Pilkington Avenue",
+    "suburb": "Castle Vale",
+    "hamlet": "Maney",
+    "city": "Birmingham",
+    "state_district": "West Midlands",
+    "state": "England",
+    "postcode": "B72 1LH",
+    "country": "United Kingdom",
+    "country_code": "gb"
+  }
+}
