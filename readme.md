@@ -21,3 +21,5 @@ Bitly's SimpleJson is the only non-core dependency, saved with `GoDep`.
 - I did add an interface definition for the two reverse geocoders, but it was unused to I removed it.
 - Tests!
 - I would like to add more reverse geocoders.
+
+...
